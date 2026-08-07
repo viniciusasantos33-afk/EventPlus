@@ -1,0 +1,1 @@
+Implementação dos repositórios, com a implementação dos métodos, utilizando o bd content event para realizar as operações no banco de dados.

@@ -1,0 +1,1 @@
+Contrato dos repositorios, sem o como deverá ser implementado, apenas a assinatura dos métodos

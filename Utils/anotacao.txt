@@ -1,0 +1,1 @@
+utilitários estáticos (por exemplo, hash, criptografia) para auxiliar nas operações do sistema.
